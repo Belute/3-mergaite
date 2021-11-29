@@ -11,7 +11,7 @@ This project is for **educational** porpuses only. Pull request are welcome, but
 
 Site published at: https://front-end-by-rimantas.github.io/32-grupe-mergaite/
 
-Design: [Mergaite](https://cdn.discordapp.com/attachments/648536139677958156/648860542743740428/404-Web-Page-Design-Examples-6.png)
+Design: [Mergaite](https://discord.com/channels/571393319201144843/850245533838868480)
 
 ## Project features
 
