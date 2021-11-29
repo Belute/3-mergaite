@@ -11,7 +11,7 @@ This project is for **educational** porpuses only. Pull request are welcome, but
 
 Site published at: https://front-end-by-rimantas.github.io/32-grupe-mergaite/
 
-Design: [Mergaite](https://discord.com/channels/571393319201144843/850245533838868480)
+Design: [Mergaite](https://cdn.discordapp.com/attachments/850245533838868480/850246211415834634/unknown.png)
 
 ## Project features
 
@@ -21,27 +21,4 @@ Design: [Mergaite](https://discord.com/channels/571393319201144843/8502455338388
 
 ## Authors
 
-Justinas: [Github](https://github.com/belute)
-
-## Code sample
-
-```html
-<head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Mergaite</title>
-</head>
-```
-
-```css
-.class {
-    background-color: red;
-}
-```
-
-```js
-function sum(a, b) {
-    return a + b;
-}
-```
+Rimantas: [Github](https://github.com/belauzas)
