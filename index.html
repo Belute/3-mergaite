@@ -1,94 +1,122 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mergaite</title>
-    <link rel="shortcut icon" href="favicon.ico" type="image/png">
-    <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="./apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./favicon-16x16.png">
+    <link rel="manifest" href="./site.webmanifest">
+    <link rel="mask-icon" href="./safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
     <style>
-    
         body {
             font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         }
+
         main {
             display: inline-block;
             width: 800px;
-            margin-right: calc(100% - 800px) / 2);
+            margin-left: calc((100% - 800px) / 2);
         }
+
         header {
-            display:inline-block;
+            display: inline-block;
             width: 100%;
-            margin-top: 40px;
-           
+            margin-top: 20px;
         }
-        img {
 
-            float:left;
-
+        header>img {
+            float: left;
+            height: 50px;
         }
+
         nav {
-            float:right;
-            margin-top: 15px;
-            
-            
+            float: right;
+            margin-top: 7px;
+        }
 
-        }
         a {
-            text-decoration-color: grey;
-            line-height: 20px;
+            display: inline-block;
+            float: left;
+            text-decoration: none;
+            color: #9E9E9E;
             font-size: 20px;
-            margin-left: 30px;
-            
-            
+            line-height: 20px;
+            padding: 5px;
+            padding-left: 20px;
+            padding-right: 20px;
+            border: 3px solid transparent;
+            border-radius: 18px;
         }
-        
+
+        a+a {
+            /* margin-left: 5px; */
+        }
+
         a:hover {
-                color: red
+            color: #8ac069;
+            text-decoration: underline;
+        }
+
+        section {
+            display: inline-block;
+            width: 100%;
+            margin-top: 30px;
+        }
+
+        div {
+            float: left;
+            width: 40%;
+            margin-left: 5%;
+            margin-right: 5%;
+            margin-top: 40px;
+            color: #9E9E9E;
+        }
+
+        h1 {
+            font-size: 80px;
+            margin: 0;
+        }
+
+        p {
+            margin: 0;
+            font-size: 30px;
+        }
+
+        section>img {
+            float: right;
+            width: 40%;
+            margin-left: 5%;
+            margin-right: 5%;
         }
     </style>
-
 </head>
 
 <body>
     <main>
         <header>
-
-            <img src="logo.png" alt="logotipas;">
-
+            <img src="./logo.png" alt="Logotipas">
             <nav>
-                <a href="#" style="margin-left: 0px;">Home</a>
-                <a href="#">Track</a>
+                <a href="#">Home</a>
+                <a href="#">Tracks</a>
                 <a href="#">Library</a>
                 <a href="#">Community</a>
-                <a href="#">Sign in</a>
+                <a href="#" style="border-color: #9E9E9E; text-transform: uppercase; margin-left: 25px;">Sign in</a>
             </nav>
-        
         </header>
         <section>
             <div>
                 <h1>404</h1>
-                <p>The link is broken or the page has been removed</p>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui aut dolorum optio labore quia minima corporis, consequatur modi reiciendis accusantium error quisquam, est debitis. Eum sed rerum porro suscipit soluta. Ut numquam nisi ipsam consequuntur adipisci officia distinctio praesentium consectetur ab, itaque, assumenda sit maiores quae in magnam odio accusamus architecto deleniti reiciendis excepturi. Temporibus cum rerum vel sunt quibusdam, repellat quo sint facilis cumque nihil a repellendus tempora nemo quod at architecto voluptas reprehenderit pariatur necessitatibus aspernatur, error est autem? Quo, quod ratione exercitationem id natus, perferendis quis, tempora iure quos esse eos beatae dignissimos laborum repudiandae facilis consequatur.</p>
-
+                <p>The link is broken or the page has been moved.</p>
             </div>
-            <img src="#" alt="Mergaite su liudnu veideliu:">
-
+            <img src="./mergaite.png" alt="Mergaite su liudnu veideliu">
         </section>
-
     </main>
-    
 </body>
-</html>
-<!--...........-->    <!--<img src="./mergaite.jpg" alt="mergaite" style="background-color: aliceblue; width: 40%; margin-top: 40%; margin-right: 70%;">-->
-<!----
-body { 
-    background-color: pink;
-}
 
-div {
-    display: inline-block;
-    width: 800px;
-    margin-left: calc((100% - 800px) / 2);
-}   --->
+</html>
