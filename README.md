@@ -6,9 +6,9 @@
 
 This project is for educational porpuses only. 
 
-Site published at https://front-end-by-rimantas.github.io/25-grupe-mergaite/
+Site published at https://belute.github.io/Mergaite_html_css/
 
-Design: [Mergaite](https://cdn.discordapp.com/attachments/648536139677958156/648860692459290634/unknown.png)
+
 
 ## Project features
 
@@ -19,4 +19,4 @@ Design: [Mergaite](https://cdn.discordapp.com/attachments/648536139677958156/648
 
 ## Authors
 
-[Rimantas](https://github.com/belauzas)
+[Justinas](https://github.com/belute)
