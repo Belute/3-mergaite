@@ -18,5 +18,4 @@ Site published at https://belute.github.io/Mergaite_html_css/
 - Github pages
 
 ## Authors
-
-[Justinas](https://github.com/belute)
+Justinas: [Github](https://github.com/belute)
